@@ -1,6 +1,6 @@
 # GenAI-Wiki-Convo
 
-GenAI-Wiki-Convo is a project built on the DataStax WikiChat demo aimed at providing a conversational interface for querying Wikipedia content in a natural language format. It is intended to be an iteration of the DataStax project with additional features (as show in the feature section). It offers real-time updates, intelligent question generation, and accurate responses.
+GenAI-Wiki-Convo is a project built on the [DataStax WikiChat demo](https://github.com/datastax/wikichat) aimed at providing a conversational interface for querying Wikipedia content in a natural language format. It is intended to be an exploration of the architecture and features of the DataStax project with additional features (as show in the feature section). It offers real-time updates, intelligent question generation, and accurate responses.
 
 ## Problem Statement and Purpose
 
